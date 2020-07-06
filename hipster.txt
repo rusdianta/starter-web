@@ -1,4 +1,0 @@
-This is a new file.
-The second line.++
-Another text.
-ANother line.
